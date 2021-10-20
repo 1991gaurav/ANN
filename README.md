@@ -1,2 +1,2 @@
 # ANN
-DEEP LEARNING | PERCEPTRON 
+Deep Learning | Perceptron 
